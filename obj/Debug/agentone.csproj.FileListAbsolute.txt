@@ -1,0 +1,52 @@
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\bin\Debug\agentone.exe
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\bin\Debug\agentone.pdb
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.Properties.Resources.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.csproj.GenerateResource.Cache
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.exe
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.pdb
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_Anasayfa.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_Firma.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_KullaniciGirisi.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_FirmaYeniKayit.resources
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.exe
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.pdb
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\bin\Debug\agentone.exe
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\bin\Debug\agentone.pdb
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.frm_Anasayfa.resources
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.frm_Firma.resources
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.frm_FirmaYeniKayit.resources
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.frm_KullaniciGirisi.resources
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.Properties.Resources.resources
+C:\Documents and Settings\cenk\Desktop\agentone\agentone\obj\Debug\agentone.csproj.GenerateResource.Cache
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_FirmaDuzenle.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_FirmaGoruntu.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_Teklif.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_TeklifYeniKayit.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_FirmaKartiSec.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_OlcuTablosu.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_RenkBedenDagilimi.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_Siparis.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_SiparisYeniKayit.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_SiparisFirmaKartiSec.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_TeklifDuzenle.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_TeklifGoruntu.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_SiparisGoruntu.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_TeklifRaporu.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.csproj.ResolveComReference.cache
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_SiparisDuzenle.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\bin\Debug\agentone.exe.config
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_SiparisRaporu.resources
+C:\Users\MCY\Documents\Visual Studio 2008\Projects\agentone\agentone\obj\Debug\agentone.frm_Firmaliste.resources
+D:\BACKUP\SourceCode\AgentOne\agentone 180909\bin\Debug\agentone.exe.config
+D:\BACKUP\SourceCode\AgentOne\agentone 180909\obj\Debug\agentone.csproj.ResolveComReference.cache
+D:\BACKUP\SourceCode\AgentOne\agentone 180909\obj\Debug\agentone.exe
+D:\BACKUP\SourceCode\AgentOne\agentone 180909\obj\Debug\agentone.pdb
+D:\SourceCode\Windows\AgentOne\agentone 180909\bin\Debug\agentone.exe.config
+D:\SourceCode\Windows\AgentOne\agentone 180909\obj\Debug\agentone.csproj.ResolveComReference.cache
+D:\SourceCode\Windows\AgentOne\agentone 180909\obj\Debug\agentone.exe
+D:\SourceCode\Windows\AgentOne\agentone 180909\obj\Debug\agentone.pdb
+C:\Users\MCY\OneDrive\Programlama\160GBHDD\Windows\AgentOne\agentone 180909\obj\Debug\agentone.csprojAssemblyReference.cache
+C:\Users\MCY\OneDrive\Programlama\160GBHDD\Windows\AgentOne\agentone 180909\obj\Debug\agentone.exe
+C:\Users\MCY\OneDrive\Programlama\160GBHDD\Windows\AgentOne\agentone 180909\obj\Debug\agentone.pdb
